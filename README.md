@@ -9,14 +9,6 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 ## Live Link
 [View Site](herokuapp.com)
 
-## Screenshots
-
-<img src="" width="900px" height="440px">
-<img src="" width="900px" height="440px">
-<img src="" width="900px" height="440px">
-
-
-
 ## User Story
 
 * A user can view the most recent posts.
